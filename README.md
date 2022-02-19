@@ -12,10 +12,12 @@
  - Deployed on heroku
 
 
-# Deployment Link
+## Deployment Link
     - https://budget-tracker-222.herokuapp.com/
 
 
+## License 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Screenshots
 
 ![budget-proj-pwa](https://user-images.githubusercontent.com/90432404/154777472-a5a499f5-f107-4294-b628-d088f30bc9b7.gif)
